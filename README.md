@@ -14,3 +14,6 @@ The tool offers a modern alternative to the conservative NASA SP-8007 method by 
 - Visual feedback (✅/❌) on input validity and extrapolation
 - Dynamic plots for KDF vs. Z and w/t
 - Disclaimer, license terms, and usage guidelines included
+
+📬 For licensing questions or collaboration inquiries, contact:
+mdc.buckling@proton.me
