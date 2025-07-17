@@ -17,3 +17,9 @@ The tool offers a modern alternative to the conservative NASA SP-8007 method by 
 
 📬 For licensing questions or collaboration inquiries, contact:
 mdc.buckling@proton.me
+
+
+The published paper includes the core knockdown factor tables to support academic transparency and reproducibility.  
+However, the official Excel implementation includes additional interpolation logic, validation routines, and internal safeguards not covered in the publication.  
+
+🔒 For reliable and consistent results, we strongly recommend using the official tool provided here, rather than attempting to recreate it manually.
